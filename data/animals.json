@@ -191,6 +191,18 @@
         "goofy"
       ],
       "id": "19"
+    },
+    {
+      "name": "Milo",
+      "species": "Cat",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "20"
     }
   ]
 }
